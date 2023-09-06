@@ -1,0 +1,12 @@
+[package]
+name = "hello-opengl"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+sdl2 = "0.35"
+gl = "0.14.0"
+png = "0.17.7"
+nalgebra-glm = "0.3"
